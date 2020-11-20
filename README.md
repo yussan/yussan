@@ -11,13 +11,12 @@
 <br/>
 
 <div align="left">
-<a href="https://github.com/yussan?tab=followers"><img src="https://img.shields.io/github/followers/sgtkuncoro.svg?style=social&label=Follow&maxAge=z"></a>
-<a href="https://github.com/yussan"><img src="https://komarev.com/ghpvc/?username=sgtkuncoro" alt="sgtkuncoro"/></a>
+<a href="https://github.com/yussan?tab=followers"><img src="https://img.shields.io/github/followers/yussan.svg?style=social&label=Follow&maxAge=z"></a>
+<a href="https://github.com/yussan"><img src="https://komarev.com/ghpvc/?username=yussan" alt="yussan"/></a>
 </div>
 
 
-<!--
-**sgtkuncoro/sgtkuncoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
