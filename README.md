@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<p align="left">
-  I am Yussan
-</p>
-</br>
-
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=yussan&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="yussan"  />  | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yussan&layout=compact&theme=default&langs_count=10&hide=tsql,css" alt="yussan"  />  |
 | ------------- | ------------- |
 
